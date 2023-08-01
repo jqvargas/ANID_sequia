@@ -1,5 +1,5 @@
 # sequia
-Proyecto ANID Sequía desarrollado en R.
+Códigos abiertos, descargables y públicos para desarrollar el proyecto ANID Sequía en software R.
 Códigos escritos por Javier Enrique Vargas y Marialina Núñez para generar los indicadores de sequía mostrados en la plataforma de monitoreo de sequías UC.
 
 Algoritmos en la carpeta:
